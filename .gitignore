@@ -40,3 +40,9 @@ nosetests.xml
 
 # Virtual environment
 venv
+
+# local config script
+env.ps1
+
+# vscode settings
+.vscode/
